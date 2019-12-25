@@ -439,6 +439,7 @@ public final class HomeActivity extends Activity implements OnDesktopEditListene
     }*/
     protected void initViews() {
 
+String heelo;
         /** init Time bar */
        /* TextView time_Bar = findViewById(R.id.timeWidget);
         String currentTime = new SimpleDateFormat("HH:mm", Locale.getDefault()).format(new Date());
